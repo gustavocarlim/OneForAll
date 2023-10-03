@@ -4,4 +4,4 @@ COPY package*.json .
 
 RUN npm install
 
-USER nodee
+USER node
